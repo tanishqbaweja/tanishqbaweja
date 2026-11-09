@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="245" viewBox="0 0 600 245" role="img" aria-label="PDFOmni">
-<defs><linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182637"/><stop offset="1" stop-color="#132130"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b2c6d5" opacity=".11"/></pattern></defs>
-<rect width="600" height="245" rx="15" fill="url(#cardbg)"/><rect width="600" height="245" rx="15" fill="url(#dots)"/><rect x="1" y="1" width="598" height="243" rx="14" fill="none" stroke="#9fb2c1" stroke-opacity=".25"/>
-<rect x="28" y="29" width="37" height="25" rx="4" fill="#e4c6a3" fill-opacity=".13" stroke="#e4c6a3" stroke-opacity=".7"/><text x="46" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#e4c6a3">03</text>
-<text x="76" y="46" font-family="Consolas, monospace" font-size="11" letter-spacing="2.3" fill="#a8becb">SELECTED WORK</text>
-<text x="28" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="750" letter-spacing="-.6" fill="#f5f8fa">PDFOmni</text>
-<rect x="28" y="135" width="56" height="3" rx="1.5" fill="#e4c6a3"/>
-<text x="28" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ced8e0">Private by architecture.</text>
-<text x="28" y="217" font-family="Consolas, monospace" font-size="12" fill="#92a8b8">TANISHQ BAWEJA  /  ENGINEERING</text>
-<rect x="426" y="60" width="108" height="139" rx="8" fill="#2c4152" stroke="#a5b7c7"/><path d="M510 60v30h24" fill="none" stroke="#a5b7c7" stroke-width="2"/><path d="M448 110h62M448 126h48M448 142h58M448 159h44" stroke="#9bb1c1" stroke-width="5" stroke-linecap="round" opacity=".6"/><rect x="437" y="99" width="86" height="72" rx="3" fill="none" stroke="#e4c6a3" stroke-width="3"/><path d="M517 173l18 24-3-17 15 2z" fill="#e4c6a3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="245" viewBox="0 0 600 245" role="img" aria-label="PDFOmni: Private, down to the file.">
+<rect width="600" height="245" rx="10" fill="#F4F1EB"/>
+<rect x="1" y="1" width="598" height="243" rx="9" fill="none" stroke="#CCC4B8" stroke-width="2"/>
+<text x="28" y="37" font-family="Consolas,'Courier New',monospace" font-size="14" letter-spacing="1.5" fill="#696158">03 / SELECTED WORK</text>
+<rect x="28" y="52" width="38" height="3" fill="#B16B46"/>
+<text x="28" y="119" font-family="Arial,Helvetica,sans-serif" font-weight="750" font-size="38" letter-spacing="-1.2" fill="#282622">PDFOmni</text>
+<text x="28" y="153" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#696158">Private, down to the file.</text>
+<path d="M28 201H378" stroke="#CCC4B8" stroke-width="1.5"/>
+<text x="28" y="226" font-family="Consolas,'Courier New',monospace" font-size="12" letter-spacing="1.0" fill="#696158">ENGINEERING  /  03</text>
+<path d="M433 63h91l33 34v107H433Z" stroke="#898175" stroke-width="2" fill="#EAE5DA"/>
+<path d="M524 63v34h33" stroke="#898175" stroke-width="2" fill="none"/>
+<path d="M451 123h83M451 140h63M451 158h79M451 175h56" stroke="#968E82" stroke-width="4" stroke-linecap="round"/>
+<rect x="442" y="112" width="104" height="72" rx="1" stroke="#B16B46" stroke-width="3" fill="none"/>
+<path d="m539 181 16 18-2-16 14 1z" fill="#B16B46"/>
+</svg>
