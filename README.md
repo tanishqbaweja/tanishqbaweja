@@ -38,7 +38,7 @@ That means building my own coding-agent harness, making computer-use actions ver
   </tr>
 </table>
 
-<sub>**Evidence, not marketing:** The cost range comes from four historical readouts using the same Muse Spark 1.3 model and reasoning effort. It applies to recorded **equal-score task cohorts**, not every task or every model; the runs used different Trebell Native snapshots, and resolution totals were 134 for Native vs 136 for Muse Code. [Read the methodology, limitations, and task-level evidence](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md). The upstream PR count was [verified from GitHub's merged-PR search](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja) on 9 November 2026.</sub>
+<sub>**Evidence, not marketing:** The cost range comes from four historical readouts using the same Muse Spark 1.3 model and reasoning effort. It applies to recorded **equal-score task cohorts**, not every task or every model; the runs used different Trebell Native snapshots, and the harnesses did not resolve precisely the same tasks. [Read the methodology, limitations, and task-level evidence](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md). The upstream PR count was [verified from GitHub's merged-PR search](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja) on 9 November 2026.</sub>
 
 ---
 
