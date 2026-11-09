@@ -1,29 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="288" viewBox="0 0 1200 288" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
 <title id="title">134 merged upstream pull requests</title>
-<desc id="desc">Contributions merged into Hugging Face sentence-transformers, ByteDance deer-flow, NVIDIA SkillSpector, OpenHands, PR-Agent, and Windows-MCP.</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101825"/><stop offset="1" stop-color="#1a2b3a"/></linearGradient>
-<pattern id="mesh" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#efffff" stroke-opacity=".045"/></pattern>
-</defs>
-<rect width="1200" height="288" rx="16" fill="url(#bg)"/>
-<rect width="1200" height="288" rx="16" fill="url(#mesh)"/>
-<rect x="1" y="1" width="1198" height="286" rx="15" stroke="#93aebc" stroke-opacity=".24" fill="none"/>
-<rect x="34" y="32" width="112" height="25" rx="12" fill="#a4efd7" fill-opacity=".11" stroke="#a4efd7" stroke-opacity=".45"/>
-<text x="90" y="49" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#a4efd7">OPEN SOURCE</text>
-<text x="40" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="124" letter-spacing="-7" font-weight="750" fill="#f6f9fc">134</text>
-<text x="42" y="218" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="650" fill="#d9e6f0">Merged upstream pull requests</text>
-<text x="43" y="248" font-family="Consolas, monospace" font-size="12" fill="#9fb9c6" letter-spacing=".6">VERIFIED ON GITHUB · 09 NOV 2026</text>
-<path d="M515 40V247" stroke="#aac6d2" stroke-opacity=".24"/>
-<text x="552" y="53" font-family="Consolas, monospace" font-size="13" letter-spacing="1.7" fill="#9fb9c6">CONTRIBUTIONS ACCEPTED BY</text>
-<g font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="650" fill="#e6edf5">
-<rect x="549" y="78" width="282" height="70" rx="10" fill="#233a4b" stroke="#5b7b8e" stroke-opacity=".5"/>
-<rect x="843" y="78" width="322" height="70" rx="10" fill="#233a4b" stroke="#5b7b8e" stroke-opacity=".5"/>
-<rect x="549" y="160" width="282" height="70" rx="10" fill="#233a4b" stroke="#5b7b8e" stroke-opacity=".5"/>
-<rect x="843" y="160" width="322" height="70" rx="10" fill="#233a4b" stroke="#5b7b8e" stroke-opacity=".5"/>
-<circle cx="576" cy="113" r="5" fill="#a4efd7"/><circle cx="870" cy="113" r="5" fill="#a4efd7"/>
-<circle cx="576" cy="195" r="5" fill="#a4efd7"/><circle cx="870" cy="195" r="5" fill="#a4efd7"/>
-<text x="592" y="119">Hugging Face</text><text x="886" y="119">ByteDance</text>
-<text x="592" y="201">NVIDIA</text><text x="886" y="201">OpenHands</text>
+<desc id="desc">Highlighted upstream projects include Hugging Face, ByteDance, NVIDIA, OpenHands, PR-Agent and Windows-MCP.</desc>
+<rect width="1200" height="270" rx="12" fill="#25231F"/>
+<rect x="1" y="1" width="1198" height="268" rx="11" stroke="#514A41" fill="none" stroke-width="2"/>
+<text x="52" y="43" font-family="Consolas,'Courier New',monospace" font-size="14" letter-spacing="2.4" fill="#D9CFC1">OPEN SOURCE  /  VERIFIED CONTRIBUTIONS</text>
+<rect x="52" y="59" width="55" height="4" fill="#B36C49"/>
+<text x="47" y="190" font-family="Arial,Helvetica,sans-serif" font-size="140" font-weight="750" letter-spacing="-8" fill="#F4F0E8">134</text>
+<text x="56" y="224" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#F4F0E8">Merged upstream PRs</text>
+<text x="56" y="252" font-family="Consolas,'Courier New',monospace" font-size="12" letter-spacing="1" fill="#AEA69C">GITHUB  /  09 NOV 2026</text>
+<path d="M525 38V231" stroke="#615A50" stroke-width="1.5"/>
+<text x="563" y="53" font-family="Consolas,'Courier New',monospace" font-size="13" letter-spacing="1.8" fill="#BDB4A8">CONTRIBUTED TO</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="600" fill="#F4F0E8">
+<text x="575" y="114">Hugging Face</text><text x="878" y="114">ByteDance</text>
+<text x="575" y="168">NVIDIA</text><text x="878" y="168">OpenHands</text>
 </g>
-<text x="552" y="262" font-family="Consolas, monospace" font-size="13" fill="#b9cbd5">+ PR-Agent · Windows-MCP · more</text>
+<g stroke="#5A5249"><path d="M566 128H1146M566 182H1146"/></g>
+<g fill="#B36C49"><rect x="563" y="95" width="4" height="22"/><rect x="866" y="95" width="4" height="22"/><rect x="563" y="149" width="4" height="22"/><rect x="866" y="149" width="4" height="22"/></g>
+<text x="565" y="222" font-family="Consolas,'Courier New',monospace" font-size="15" fill="#C6BBB0">PR-Agent  /  Windows-MCP  /  more</text>
 </svg>
