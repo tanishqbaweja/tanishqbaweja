@@ -1,171 +1,70 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Tanishq Baweja — engineering the layer between AI and action. Agentic coding, verified computer-use, and local-first products." />
+<img src="assets/hero.svg" width="100%" alt="Tanishq Baweja — engineering the layer between AI and action." />
 
 <br />
 
-**Software engineer · Independent builder · Open-source contributor**
+**AI coding systems · Verified automation · Local-first software**
 
-[**Open source · 134 merged PRs**](#open-source-contributions) &nbsp;·&nbsp; [**Trebell Code**](https://trebell.dev) &nbsp;·&nbsp; [**Selected work**](#selected-work) &nbsp;·&nbsp; [**PDFOmni**](https://pdfomni.com)
+[Open source](#open-source) &nbsp;·&nbsp; [Selected builds](#selected-builds) &nbsp;·&nbsp; [Trebell Code](https://trebell.dev)
 
 </div>
 
 <br />
 
-## Open-source contributions
+## Open source
 
-**Not just forks. Changes reviewed, accepted, and merged into other people's projects.**
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja">
+  <img src="assets/open-source.svg" width="100%" alt="134 upstream pull requests merged into projects including Hugging Face, ByteDance, NVIDIA, and OpenHands." />
+</a>
 
-<table>
-<tr>
-<td width="34%" valign="top" align="center">
-<br />
-<sub>MERGED UPSTREAM PULL REQUESTS</sub>
-<h1>134</h1>
-<strong>Real changes in external repositories</strong>
-<br /><br />
-<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja"><strong>Browse the merged PRs ↗</strong></a>
-<br /><br />
-<sub>GitHub search · verified 9 Nov 2026</sub>
-<br /><br />
-</td>
-<td width="66%" valign="top">
+**Selected merged fixes:** [Hugging Face · model dtype](https://github.com/huggingface/sentence-transformers/pull/4314) &nbsp;·&nbsp; [ByteDance · async compaction](https://github.com/bytedance/deer-flow/pull/7806) &nbsp;·&nbsp; [NVIDIA · detection](https://github.com/NVIDIA/SkillSpector/pull/965) &nbsp;·&nbsp; [OpenHands · interface](https://github.com/OpenHands/OpenHands/pull/18936)
 
-I contribute across **AI infrastructure, developer tools, automation, and open-source applications**. These are upstream contributions to maintainers' original repositories, not commits to my own forks.
+<sub>[View all merged upstream PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja). Count verified 9 Nov 2026; excludes PRs to my own repositories.</sub>
 
-**Examples of projects that have merged my work:**
-
-[Hugging Face · sentence-transformers](https://github.com/huggingface/sentence-transformers/pull/4314) · [ByteDance · deer-flow](https://github.com/bytedance/deer-flow/pull/7806) · [NVIDIA · SkillSpector](https://github.com/NVIDIA/SkillSpector/pull/965) · [OpenHands](https://github.com/OpenHands/OpenHands/pull/18936) · [PR-Agent](https://github.com/The-PR-Agent/pr-agent/pull/4648) · [Windows-MCP](https://github.com/CursorTouch/Windows-MCP/pull/550)
-
-</td>
-</tr>
-</table>
-
-**Selected merged contributions**
-
-| Upstream repository | Engineering contribution |
-| :--- | :--- |
-| **[Hugging Face / sentence-transformers](https://github.com/huggingface/sentence-transformers/pull/4314)** | Fixed Router module dtype handling to restore float16 and bfloat16 compatibility. |
-| **[ByteDance / deer-flow](https://github.com/bytedance/deer-flow/pull/7806)** | Moved manual-compaction model construction off the event loop, avoiding blocking the async runtime. |
-| **[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector/pull/965)** | Fixed false prompt-extraction reports on Python return statements. |
-| **[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands/pull/18936)** | Preserved template-filter scrolling when a search returns no results. |
-| **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4890)** | Corrected MCP config isolation for custom Claude profile directories. |
-| **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP/pull/550)** | Improved desktop UI-tree window traversal using Windows z-order. |
-
-<sub>Every example links to its merged pull request. The 134 count covers upstream merged PRs, not the number of repositories or a claim of maintainership. [Complete merged-PR history](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja).</sub>
-
----
-
-### The work matters more than the buzzwords.
-
-I build software at the point where AI stops generating answers and starts **getting things done**. My focus is on the engineering around the model: tool execution, context, caching, reliable automation, verification, and thoughtful products people can actually use.
-
-That means building my own coding-agent harness, making computer-use actions verifiable, and creating privacy-first tools that process files on your device.
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h2>178</h2>
-      <strong>Recorded engineering tasks</strong><br />
-      <sub>Trebell / Muse Code benchmark</sub>
-    </td>
-    <td width="34%" align="center">
-      <h2>0.27–0.37×</h2>
-      <strong>Relative model cost</strong><br />
-      <sub>Across equal-score benchmark cohorts</sub>
-    </td>
-    <td width="33%" align="center">
-      <h2>388</h2>
-      <strong>Verified conversion routes</strong><br />
-      <sub>Within · browser file converter</sub>
-    </td>
-  </tr>
-</table>
-
-<sub>**Evidence, not marketing:** The cost range comes from four historical readouts using the same Muse Spark 1.3 model and reasoning effort. It applies to recorded **equal-score task cohorts**, not every task or every model; the runs used different Trebell Native snapshots, and the harnesses did not resolve precisely the same tasks. [Read the methodology, limitations, and task-level evidence](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md). Within's published conversion routes are documented in [its capability registry](https://github.com/tanishqbaweja/fileconverter#verified-public-routes).</sub>
-
----
-
-## Selected work
+## Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://trebell.dev"><img src="assets/trebell.svg" width="100%" alt="Trebell Code" /></a>
 
-<a href="https://github.com/tanishqbaweja/TrebCode"><img src="assets/trebell.svg" width="100%" alt="Trebell Code — the harness is the product" /></a>
+**[Trebell Code](https://trebell.dev)** · [Code](https://github.com/tanishqbaweja/TrebCode) · [Benchmarks](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md)
 
-**[Trebell Code](https://github.com/tanishqbaweja/TrebCode)** · [Website](https://trebell.dev) · [Benchmark](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md)
-
-A desktop agentic coding environment with a **first-party model/tool harness**. I work on making the same AI model do more verified engineering work per dollar through cache-aware context, lazy tools, self-checks, and measured recovery. It also integrates external coding runtimes, but the native harness is the core.
-
-<sub>Electron · React · Node.js · LLM APIs · agent orchestration</sub>
+My own agentic coding harness. Built to optimize **verified engineering work per dollar**.
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/tanishqbaweja/VerityMCP"><img src="assets/verity.svg" width="100%" alt="VerityMCP" /></a>
 
-<a href="https://github.com/tanishqbaweja/VerityMCP"><img src="assets/verity.svg" width="100%" alt="VerityMCP — computer actions with proof" /></a>
+**[VerityMCP](https://github.com/tanishqbaweja/VerityMCP)**
 
-**[VerityMCP](https://github.com/tanishqbaweja/VerityMCP)** · [Source](https://github.com/tanishqbaweja/VerityMCP)
-
-A Model Context Protocol server that lets ChatGPT work with real **local files, terminals, browsers, and desktop applications**. Its defining idea: successful tool calls must be backed by checks of what actually changed, not just optimistic responses.
-
-<sub>TypeScript · MCP · Playwright · filesystem and process tooling</sub>
+Computer-use tools for ChatGPT, with **verification of real file, terminal, browser, and desktop actions**.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://pdfomni.com"><img src="assets/pdfomni.svg" width="100%" alt="PDFOmni" /></a>
 
-<a href="https://pdfomni.com"><img src="assets/pdfomni.svg" width="100%" alt="PDFOmni — private by architecture" /></a>
+**[PDFOmni](https://pdfomni.com)** · [Code](https://github.com/tanishqbaweja/pdfomni)
 
-**[PDFOmni](https://github.com/tanishqbaweja/pdfomni)** · [Use the app](https://pdfomni.com)
-
-A local-first PDF toolkit built around **in-browser processing**. Its editor works with underlying PDF content rather than relying on flattening pages into images, with the aim of keeping text and vector content intact.
-
-<sub>React · WebAssembly · JavaScript · PDF internals</sub>
+**Private, in-browser** PDF editing and tools, including non-rasterizing content edits.
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/tanishqbaweja/fileconverter"><img src="assets/within.svg" width="100%" alt="Within file converter" /></a>
 
-<a href="https://github.com/tanishqbaweja/fileconverter"><img src="assets/within.svg" width="100%" alt="Within — file conversion without uploads" /></a>
+**[Within](https://github.com/tanishqbaweja/fileconverter)**
 
-**[Within](https://github.com/tanishqbaweja/fileconverter)** · [Verified capabilities](https://github.com/tanishqbaweja/fileconverter#verified-public-routes)
-
-A privacy-first browser file converter that processes files in workers and streams results directly to user-selected destinations. Its conversion matrix is backed by repeatability, output validation, cleanup, and memory checks.
-
-<sub>TypeScript · WebAssembly · FFmpeg · browser streaming</sub>
+Browser-native file conversion. **No upload server**, with [388 verified routes](https://github.com/tanishqbaweja/fileconverter#verified-public-routes).
 
 </td>
 </tr>
 </table>
-
-<details>
-  <summary><strong>See Trebell Code in action</strong></summary>
-  <br />
-  <img src="https://raw.githubusercontent.com/tanishqbaweja/TrebCode/main/docs/assets/trebell-code-workspace.png" width="100%" alt="Trebell Code desktop coding workspace" />
-  <p><sub>Actual product screenshot from the public Trebell Code repository.</sub></p>
-</details>
-
-## A few principles
-
-**Measure the result, not the demo.** A coding agent is only useful if the code works. A cheaper agent is only better when quality is accounted for.
-
-**Verify the side effect.** If a tool says it changed a file, ran a test, or clicked a button, that claim should be checkable.
-
-**Keep complexity behind the product.** Powerful engineering is worth little if the user has to think about every implementation detail.
-
-## Beyond the flagship projects
-
-I also build [automated AI video production systems](https://github.com/tanishqbaweja/AIVideoMaker) and explore [native mobile product design](https://github.com/tanishqbaweja/LocalMusicPlayer). Different mediums, same interest: taking an ambitious idea all the way to a working system.
-
----
 
 <div align="center">
 
-**Interested in developer infrastructure, agent reliability, or local-first software?**
-
-Take a look at [Trebell Code](https://trebell.dev), explore the [repositories](https://github.com/tanishqbaweja?tab=repositories), or [reach out through GitHub](https://github.com/tanishqbaweja).
-
-<sub>Built, tested, and maintained by Tanishq Baweja.</sub>
+[**Explore my repositories**](https://github.com/tanishqbaweja?tab=repositories) &nbsp;·&nbsp; [**See Trebell Code**](https://trebell.dev) &nbsp;·&nbsp; [**Browse merged contributions**](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja)
 
 </div>
