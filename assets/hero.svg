@@ -20,7 +20,7 @@
 <rect x="0" y="76" width="280" height="53" rx="5" fill="#26231F"/>
 <rect x="0" y="152" width="280" height="53" rx="5" fill="#EBE6DD" stroke="#BDB6AB"/>
 <circle cx="26" cy="26" r="5" fill="#91877C"/>
-<circle cx="26" cy="102" r="5" fill="#BC784D"/>
+<circle cx="26" cy="102" r="5" fill="#A45F40"/>
 <circle cx="26" cy="178" r="5" fill="#91877C"/>
 <text x="44" y="32" font-family="Consolas,'Courier New',monospace" font-size="15" letter-spacing="1.3" fill="#36312B">MODEL</text>
 <text x="44" y="108" font-family="Consolas,'Courier New',monospace" font-size="15" letter-spacing="1.3" fill="#F6F2EA">ENGINEERING</text>
