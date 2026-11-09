@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="245" viewBox="0 0 600 245" role="img" aria-label="Trebell Code">
-<defs><linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182637"/><stop offset="1" stop-color="#132130"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b2c6d5" opacity=".11"/></pattern></defs>
-<rect width="600" height="245" rx="15" fill="url(#cardbg)"/><rect width="600" height="245" rx="15" fill="url(#dots)"/><rect x="1" y="1" width="598" height="243" rx="14" fill="none" stroke="#9fb2c1" stroke-opacity=".25"/>
-<rect x="28" y="29" width="37" height="25" rx="4" fill="#a4efd7" fill-opacity=".13" stroke="#a4efd7" stroke-opacity=".7"/><text x="46" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#a4efd7">01</text>
-<text x="76" y="46" font-family="Consolas, monospace" font-size="11" letter-spacing="2.3" fill="#a8becb">SELECTED WORK</text>
-<text x="28" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="750" letter-spacing="-.6" fill="#f5f8fa">Trebell Code</text>
-<rect x="28" y="135" width="56" height="3" rx="1.5" fill="#a4efd7"/>
-<text x="28" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ced8e0">The harness is the product.</text>
-<text x="28" y="217" font-family="Consolas, monospace" font-size="12" fill="#92a8b8">TANISHQ BAWEJA  /  ENGINEERING</text>
-<rect x="410" y="68" width="158" height="138" rx="10" fill="#182b3b" stroke="#7890a3" stroke-opacity=".6"/><path d="M410 96H568" stroke="#7890a3" stroke-opacity=".4"/><circle cx="427" cy="83" r="4" fill="#e99a98"/><circle cx="440" cy="83" r="4" fill="#e6c48b"/><circle cx="453" cy="83" r="4" fill="#a4efd7"/><path d="M428 119l10 8-10 8M444 136h29" fill="none" stroke="#a4efd7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M426 159h110M426 177h70M426 195h90" stroke="#6d879a" stroke-width="4" stroke-linecap="round" opacity=".6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="245" viewBox="0 0 600 245" role="img" aria-label="Trebell Code: Agentic coding, measured.">
+<rect width="600" height="245" rx="10" fill="#292722"/>
+<rect x="1" y="1" width="598" height="243" rx="9" fill="none" stroke="#665B4D" stroke-width="2"/>
+<text x="28" y="37" font-family="Consolas,'Courier New',monospace" font-size="14" letter-spacing="1.5" fill="#C2B6A7">01 / SELECTED WORK</text>
+<rect x="28" y="52" width="38" height="3" fill="#B16B46"/>
+<text x="28" y="119" font-family="Arial,Helvetica,sans-serif" font-weight="750" font-size="38" letter-spacing="-1.2" fill="#F4F0E8">Trebell Code</text>
+<text x="28" y="153" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#C2B6A7">Agentic coding, measured.</text>
+<path d="M28 201H378" stroke="#665B4D" stroke-width="1.5"/>
+<text x="28" y="226" font-family="Consolas,'Courier New',monospace" font-size="12" letter-spacing="1.0" fill="#C2B6A7">ENGINEERING  /  01</text>
+<rect x="409" y="74" width="159" height="131" rx="6" fill="#34312A" stroke="#897E71" stroke-width="1.5"/>
+<path d="M409 100H568" stroke="#897E71"/><circle cx="427" cy="87" r="3" fill="#B16B46"/><circle cx="440" cy="87" r="3" fill="#9B9186"/><circle cx="453" cy="87" r="3" fill="#9B9186"/>
+<path d="M429 124l10 9-10 9m18 0h17" fill="none" stroke="#F4F0E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M429 165h95M429 183h58" stroke="#B8AD9F" stroke-width="3" stroke-linecap="round"/>
+<rect x="518" y="162" width="33" height="34" rx="3" fill="#B16B46"/>
+<path d="m526 179 6 6 12-13" fill="none" stroke="#F6F2EA" stroke-width="3" stroke-linecap="round"/>
+</svg>
