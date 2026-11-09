@@ -6,11 +6,55 @@
 
 **Software engineer · Independent builder · Open-source contributor**
 
-[**Trebell Code**](https://trebell.dev) &nbsp;·&nbsp; [**PDFOmni**](https://pdfomni.com) &nbsp;·&nbsp; [**See my work**](#selected-work) &nbsp;·&nbsp; [**Open-source contributions**](#upstream-open-source)
+[**Open source · 134 merged PRs**](#open-source-contributions) &nbsp;·&nbsp; [**Trebell Code**](https://trebell.dev) &nbsp;·&nbsp; [**Selected work**](#selected-work) &nbsp;·&nbsp; [**PDFOmni**](https://pdfomni.com)
 
 </div>
 
 <br />
+
+## Open-source contributions
+
+**Not just forks. Changes reviewed, accepted, and merged into other people's projects.**
+
+<table>
+<tr>
+<td width="34%" valign="top" align="center">
+<br />
+<sub>MERGED UPSTREAM PULL REQUESTS</sub>
+<h1>134</h1>
+<strong>Real changes in external repositories</strong>
+<br /><br />
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja"><strong>Browse the merged PRs ↗</strong></a>
+<br /><br />
+<sub>GitHub search · verified 9 Nov 2026</sub>
+<br /><br />
+</td>
+<td width="66%" valign="top">
+
+I contribute across **AI infrastructure, developer tools, automation, and open-source applications**. These are upstream contributions to maintainers' original repositories, not commits to my own forks.
+
+**Examples of projects that have merged my work:**
+
+[Hugging Face · sentence-transformers](https://github.com/huggingface/sentence-transformers/pull/4314) · [ByteDance · deer-flow](https://github.com/bytedance/deer-flow/pull/7806) · [NVIDIA · SkillSpector](https://github.com/NVIDIA/SkillSpector/pull/965) · [OpenHands](https://github.com/OpenHands/OpenHands/pull/18936) · [PR-Agent](https://github.com/The-PR-Agent/pr-agent/pull/4648) · [Windows-MCP](https://github.com/CursorTouch/Windows-MCP/pull/550)
+
+</td>
+</tr>
+</table>
+
+**Selected merged contributions**
+
+| Upstream repository | Engineering contribution |
+| :--- | :--- |
+| **[Hugging Face / sentence-transformers](https://github.com/huggingface/sentence-transformers/pull/4314)** | Fixed Router module dtype handling to restore float16 and bfloat16 compatibility. |
+| **[ByteDance / deer-flow](https://github.com/bytedance/deer-flow/pull/7806)** | Moved manual-compaction model construction off the event loop, avoiding blocking the async runtime. |
+| **[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector/pull/965)** | Fixed false prompt-extraction reports on Python return statements. |
+| **[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands/pull/18936)** | Preserved template-filter scrolling when a search returns no results. |
+| **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4890)** | Corrected MCP config isolation for custom Claude profile directories. |
+| **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP/pull/550)** | Improved desktop UI-tree window traversal using Windows z-order. |
+
+<sub>Every example links to its merged pull request. The 134 count covers upstream merged PRs, not the number of repositories or a claim of maintainership. [Complete merged-PR history](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja).</sub>
+
+---
 
 ### The work matters more than the buzzwords.
 
@@ -31,14 +75,14 @@ That means building my own coding-agent harness, making computer-use actions ver
       <sub>Across equal-score benchmark cohorts</sub>
     </td>
     <td width="33%" align="center">
-      <h2>134</h2>
-      <strong>Merged upstream PRs</strong><br />
-      <sub>External open-source repositories</sub>
+      <h2>388</h2>
+      <strong>Verified conversion routes</strong><br />
+      <sub>Within · browser file converter</sub>
     </td>
   </tr>
 </table>
 
-<sub>**Evidence, not marketing:** The cost range comes from four historical readouts using the same Muse Spark 1.3 model and reasoning effort. It applies to recorded **equal-score task cohorts**, not every task or every model; the runs used different Trebell Native snapshots, and the harnesses did not resolve precisely the same tasks. [Read the methodology, limitations, and task-level evidence](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md). The upstream PR count was [verified from GitHub's merged-PR search](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja) on 9 November 2026.</sub>
+<sub>**Evidence, not marketing:** The cost range comes from four historical readouts using the same Muse Spark 1.3 model and reasoning effort. It applies to recorded **equal-score task cohorts**, not every task or every model; the runs used different Trebell Native snapshots, and the harnesses did not resolve precisely the same tasks. [Read the methodology, limitations, and task-level evidence](https://github.com/tanishqbaweja/TrebCode/blob/main/BENCHMARKS.md). Within's published conversion routes are documented in [its capability registry](https://github.com/tanishqbaweja/fileconverter#verified-public-routes).</sub>
 
 ---
 
@@ -101,19 +145,6 @@ A privacy-first browser file converter that processes files in workers and strea
   <img src="https://raw.githubusercontent.com/tanishqbaweja/TrebCode/main/docs/assets/trebell-code-workspace.png" width="100%" alt="Trebell Code desktop coding workspace" />
   <p><sub>Actual product screenshot from the public Trebell Code repository.</sub></p>
 </details>
-
-## Upstream open source
-
-I don't just maintain my own repositories. I contribute fixes upstream, where they have to work inside someone else's codebase, follow project conventions, and survive review.
-
-Some of my merged contributions:
-
-- [**sentence-transformers** — restore Router models across float16 and bfloat16](https://github.com/huggingface/sentence-transformers/pull/4314)
-- [**deer-flow** — move manual compaction model construction off the event loop](https://github.com/bytedance/deer-flow/pull/7806)
-- [**oh-my-claudecode** — correctly isolate MCP configuration by Claude profile](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/4890)
-- [**Windows-MCP** — improve the desktop UI tree's window traversal](https://github.com/CursorTouch/Windows-MCP/pull/550)
-
-[Explore all merged upstream contributions](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanishqbaweja+-user%3Atanishqbaweja)
 
 ## A few principles
 
