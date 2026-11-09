@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Tanishq Baweja — engineering the layer between AI and action</title>
+<desc id="desc">Editorial dark profile banner with an engineering workflow from model to harness to verified result.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101825"/><stop offset="1" stop-color="#18283a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a4efd7"/><stop offset="1" stop-color="#b8c8ff"/></linearGradient>
+  <pattern id="grid" width="39" height="39" patternUnits="userSpaceOnUse"><path d="M39 0H0V39" fill="none" stroke="#eef4fb" stroke-opacity=".055" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="410" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="410" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="408" rx="17" fill="none" stroke="#97acc5" stroke-opacity=".25"/>
+<rect x="58" y="50" width="37" height="37" rx="8" fill="#a4efd7"/>
+<text x="76.5" y="75" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" fill="#0f1923">TB</text>
+<text x="112" y="67" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2.8" font-weight="700" fill="#f5f6fa">TANISHQ BAWEJA</text>
+<text x="112" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="2.0" fill="#aebdce">SOFTWARE ENGINEER  /  INDEPENDENT BUILDER</text>
+<rect x="58" y="124" width="5" height="112" rx="2.5" fill="url(#accent)"/>
+<text x="82" y="171" font-family="Segoe UI, Arial, sans-serif" font-weight="760" font-size="52" letter-spacing="-1.6" fill="#f6f8fc">Engineering the layer</text>
+<text x="82" y="229" font-family="Segoe UI, Arial, sans-serif" font-weight="760" font-size="52" letter-spacing="-1.6" fill="#a4efd7">between AI and action.</text>
+<text x="82" y="282" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#c5d0de">Agentic coding · Verified computer-use · Local-first products</text>
+<path d="M58 330H1142" stroke="#d9e5f1" stroke-opacity=".22"/>
+<text x="59" y="363" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.3" fill="#c7d4e1">BUILD  /  TEST  /  VERIFY  /  SHIP</text>
+<text x="1141" y="363" font-family="Consolas, 'Courier New', monospace" font-size="12" text-anchor="end" fill="#92abbc">GITHUB / PORTFOLIO</text>
+<g transform="translate(883,110)">
+<path d="M133 55V77M133 141V163" stroke="#a4efd7" stroke-width="2" stroke-dasharray="5 5" opacity=".7"/>
+<path d="M127 70L133 78L139 70M127 156L133 164L139 156" fill="none" stroke="#a4efd7" stroke-width="2"/>
+<rect x="31" y="0" width="204" height="55" rx="10" fill="#203246" stroke="#6e849a" stroke-opacity=".7"/>
+<rect x="31" y="81" width="204" height="60" rx="10" fill="#263b4e" stroke="#a4efd7" stroke-opacity=".85"/>
+<rect x="31" y="164" width="204" height="55" rx="10" fill="#203246" stroke="#6e849a" stroke-opacity=".7"/>
+<circle cx="57" cy="27" r="6" fill="#8da3b7"/><circle cx="57" cy="111" r="6" fill="#a4efd7"/><circle cx="57" cy="191" r="6" fill="#a4efd7"/>
+<text x="78" y="32" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#e2eaf2">MODEL</text>
+<text x="78" y="116" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" font-weight="700" fill="#a4efd7">ENGINEERING</text>
+<text x="78" y="196" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#e2eaf2">VERIFIED WORK</text>
+</g>
+</svg>
